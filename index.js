@@ -53,3 +53,31 @@ var change = function(){
 //for y foreach
 
 }
+/*
+/Ciclo while
+
+var prueba=10
+
+while (prueba <20) {
+
+    console.log('')
+    console.log('')
+    console.log('')
+    console.log('')
+
+    prueba = prueba + 1
+    
+}*/
+
+/*var libros = ['azul'. 'verde', 'azul', 'rojo', 'rosa', 'azul']
+var librosguardados[]
+
+for (let alibros = 0;a < libros.length; a++) {
+    console.log(libros[a])
+    if (libros[a] == 'azul' ){
+        librosguardados.push(libros[a])
+        
+        
+    }
+    
+}*/
